@@ -1,0 +1,11 @@
+###########################
+#        Config           #
+###########################
+#Color Scheme
+
+import:
+  - ~/.alacritty-colorscheme/themes/gruvbox_dark.yaml
+
+#Transparency 
+window:
+  opacity: 0.75
